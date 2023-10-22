@@ -1,7 +1,7 @@
-HTML Capstone Project number 1 (Online Resume) by 2023 Web Development Bootcamp Repository from Udemy.
+# HTML Capstone Project number 1 (Online Resume) by 2023 Web Development Bootcamp Repository from Udemy.
 
-Content:
+## Content:
 
-Capstone Project number 1 developed by Dr. Angela Yu from Udemy.
+- Capstone Project number 1 developed by Dr. Angela Yu from Udemy.
 
-Used IDE: Visual Studio Code.
+### Used IDE: Visual Studio Code.
